@@ -1,6 +1,6 @@
 # React Navbar
 
-Check it out [here!]()
+Check it out [here!](https://ianbrdeguzman.github.io/react-navbar/)
 
 ## Created using:
 
